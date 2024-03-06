@@ -1,5 +1,5 @@
 
-
+/* CODIGO PARA TESTES */
 
 const cronometroElement = document.getElementById('cronometro');
 const startButton = document.getElementById('startButton');

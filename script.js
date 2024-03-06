@@ -1,3 +1,5 @@
+/* CODIGO PRINCIPAL */
+
 const cronometroElement = document.getElementById('cronometro');
 const startButton = document.getElementById('startButton');
 const pauseButton = document.getElementById('pauseButton');
